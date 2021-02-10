@@ -6,7 +6,6 @@ django.setup()
 
 
 from testapp.models import members, activity_periods
-import faker.providers.date_time
 from faker import Faker
 from django.utils import timezone
 from random import *
