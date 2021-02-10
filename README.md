@@ -46,6 +46,6 @@ For running:
 python manage.py runserver
 
 -------------------------------------------------------------------------------------------------
-to custom management command to populate the database with some dummy data:
+In commandprompt to custom management command to populate the database with some dummy data:
 
 heroku run python populate.py --app fullthrottlelabsproject
