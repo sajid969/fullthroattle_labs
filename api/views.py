@@ -9,6 +9,3 @@ class membersAPIView(generics.ListCreateAPIView):
     queryset=members.objects.all()
     serializer_class=membersSerializer
     pagination_class=PageNumberPagination
-# class activity_periodsAPIView(generics.ListCreateAPIView):
-#     queryset=activity_periods.objects.all()
-#     #serializer_class=BankDetailsSerializer
