@@ -1,8 +1,10 @@
 fullthroattle_labs
+
 Django-Assignment Test
 
 -----------------------------------------------------------------------------------------------
 Admin Superuser Information
+
 User name: sajid  
 password: 9959301556
 
