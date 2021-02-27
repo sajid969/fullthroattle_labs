@@ -3,12 +3,6 @@ fullthroattle_labs
 Django-Assignment Test
 
 -----------------------------------------------------------------------------------------------
-Admin Superuser Information
-
-User name: sajid  
-password: 9959301556
-
------------------------------------------------------------------------------------------------
 
 heroku host of this poject: 
 https://fullthrottlelabsproject.herokuapp.com/
